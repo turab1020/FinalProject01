@@ -1,5 +1,4 @@
 # FinalProject01
->>>>Simply Run the exe file to Play the game<<<<
 
 Rules and Controls:
 
